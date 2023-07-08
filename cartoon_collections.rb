@@ -31,4 +31,5 @@ def find_the_cheese str # code an argument here
 end
 snacks = ["crackers", "gouda", "thyme"]
 soup = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
-#binding.pry
+ingredients = ["garlic", "rosemary", "bread"]
+binding.pry
